@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="510" viewBox="0 0 900 510" role="img" aria-labelledby="title desc">
+<title id="title">Giovanna — Infrastructure and Data</title>
+<desc id="desc">Estagiária em Análise de Infraestrutura. Painel animado de Power BI, SAP, Excel e Infraestrutura. Indicadores decorativos.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100c1c"/><stop offset="1" stop-color="#191029"/></linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#b58aef" stroke-opacity=".055"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="508" rx="18" fill="url(#bg)" stroke="#46305f"/>
+<rect x="2" y="2" width="896" height="506" rx="18" fill="url(#grid)"/>
+<g font-family="Arial, sans-serif">
+ <circle cx="31" cy="32" r="5" fill="#6ee7cb"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+ <text x="47" y="37" fill="#b2a3c7" font-size="12" letter-spacing="2">GIOVANNA / CONTROL CENTER</text>
+ <text x="870" y="37" text-anchor="end" fill="#a68abf" font-size="11" letter-spacing="2">PROFILE v2.0</text>
+ <path d="M25 56H875" stroke="#382747"/>
+ <text x="30" y="96" fill="#c5a0fa" font-size="12" letter-spacing="3">CARREIRA EM CONSTRUÇÃO</text>
+ <text x="30" y="135" fill="#f4edff" font-size="30" font-weight="700">Estagiária em Análise de Infraestrutura</text>
+ <text x="30" y="164" fill="#b7a7ca" font-size="16">Sistemas de Informação · Infraestrutura · Dados · Tecnologia</text>
+ <path d="M132 223V204H768V223M344 204V223M556 204V223M450 184V204" fill="none" stroke="#6c4297"/>
+ <circle r="3" fill="#d7b3ff"><animateMotion path="M132 223V204H768V223" dur="5s" repeatCount="indefinite"/></circle>
+ <circle cx="450" cy="204" r="4" fill="#c493ff"/>
+
+ <g transform="translate(30 224)">
+  <rect width="204" height="202" rx="12" fill="#161222" stroke="#58426e"/>
+  <text x="17" y="26" fill="#927ca8" font-size="10" letter-spacing="2">01 / ANALYTICS</text>
+  <g fill="#e8be61"><rect x="19" y="68" width="12" height="29" rx="3"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></rect><rect x="38" y="56" width="12" height="41" rx="3"><animate attributeName="opacity" values=".6;1;.6" dur="2s" begin=".3s" repeatCount="indefinite"/></rect><rect x="57" y="43" width="12" height="54" rx="3"/></g>
+  <text x="17" y="134" fill="#f4e4ba" font-size="25" font-weight="700">Power BI</text>
+  <text x="17" y="159" fill="#b6a6c7" font-size="13">Visualização de dados</text>
+  <path d="M17 181H187" stroke="#e8be61" stroke-opacity=".35"/>
+ </g>
+ <g transform="translate(242 224)">
+  <rect width="204" height="202" rx="12" fill="#161222" stroke="#58426e"/>
+  <text x="17" y="26" fill="#927ca8" font-size="10" letter-spacing="2">02 / ENTERPRISE</text>
+  <g fill="none" stroke="#7ecdf1" stroke-width="2"><path d="M22 59L46 45L70 59V86L46 100L22 86ZM22 59L46 73L70 59M46 73V100"/><circle cx="46" cy="73" r="7"><animate attributeName="r" values="5;10;5" dur="3s" repeatCount="indefinite"/></circle></g>
+  <text x="17" y="134" fill="#b9e9fc" font-size="25" font-weight="700">SAP</text>
+  <text x="17" y="159" fill="#b6a6c7" font-size="13">Sistemas empresariais</text>
+  <path d="M17 181H187" stroke="#7ecdf1" stroke-opacity=".35"/>
+ </g>
+ <g transform="translate(454 224)">
+  <rect width="204" height="202" rx="12" fill="#161222" stroke="#58426e"/>
+  <text x="17" y="26" fill="#927ca8" font-size="10" letter-spacing="2">03 / DATA</text>
+  <g fill="none" stroke="#74dab1" stroke-width="2"><rect x="21" y="47" width="54" height="48" rx="5"/><path d="M21 63H75M21 79H75M39 47V95M57 47V95"/></g>
+  <rect x="41" y="65" width="14" height="12" fill="#74dab1"><animate attributeName="opacity" values=".2;.9;.2" dur="2.5s" repeatCount="indefinite"/></rect>
+  <text x="17" y="134" fill="#b7f0d8" font-size="25" font-weight="700">Excel</text>
+  <text x="17" y="159" fill="#b6a6c7" font-size="13">Organização e análise</text>
+  <path d="M17 181H187" stroke="#74dab1" stroke-opacity=".35"/>
+ </g>
+ <g transform="translate(666 224)">
+  <rect width="204" height="202" rx="12" fill="#161222" stroke="#58426e"/>
+  <text x="17" y="26" fill="#927ca8" font-size="10" letter-spacing="2">04 / SYSTEMS</text>
+  <g fill="none" stroke="#c295ff" stroke-width="2"><rect x="21" y="47" width="57" height="20" rx="4"/><rect x="21" y="76" width="57" height="20" rx="4"/><path d="M45 57H67M45 86H67"/></g>
+  <g fill="#c295ff"><circle cx="31" cy="57" r="3"><animate attributeName="opacity" values="1;.1;1" dur="1.4s" repeatCount="indefinite"/></circle><circle cx="31" cy="86" r="3"><animate attributeName="opacity" values=".1;1;.1" dur="1.4s" repeatCount="indefinite"/></circle></g>
+  <text x="17" y="134" fill="#dfc5ff" font-size="21" font-weight="700">Infraestrutura</text>
+  <text x="17" y="159" fill="#b6a6c7" font-size="13">Conectividade e suporte</text>
+  <path d="M17 181H187" stroke="#c295ff" stroke-opacity=".35"/>
+ </g>
+ <text x="30" y="471" fill="#b8a3cc" font-family="monospace" font-size="13">&gt; learning.mode = always_on</text>
+ <rect x="288" y="459" width="7" height="15" fill="#c295ff"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+ <text x="870" y="471" text-anchor="end" fill="#927ca8" font-size="11" letter-spacing="1">CONEXÕES QUE GERAM POSSIBILIDADES</text>
+</g>
+</svg>

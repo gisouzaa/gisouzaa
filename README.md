@@ -10,29 +10,30 @@
 
 <br />
 
-### 🪐 GIOVANNA · SYSTEM
+### 🪐 GIOVANNA · SYSTEM ONLINE
 
-<img src="./terminal.svg" width="100%" alt="Giovanna System: estudante de Sistemas de Informação. Status: aprendendo e construindo." />
+<img src="./painel.svg" width="100%" alt="Estagiária em Análise de Infraestrutura. Power BI, SAP, Excel e Infraestrutura: minhas ferramentas e áreas de atuação." />
 
 <br />
 
 ### 💜 Sobre mim
 
-Olá! Sou **Giovanna Souza**, estudante de **Sistemas de Informação**.
+Olá! Sou **Giovanna Souza**, estudante de **Sistemas de Informação** e **estagiária em Análise de Infraestrutura**.
 
-Este é meu espaço para compartilhar minha jornada na tecnologia, organizar meus estudos e construir projetos durante a graduação.
+Minha jornada conecta **infraestrutura, dados e sistemas**. Aqui compartilho meus estudos e projetos enquanto desenvolvo minha experiência com **Power BI, SAP e Excel**.
 
 ```js
-const giovanna = {
-  nome: "Giovanna Souza",
-  curso: "Sistemas de Informação",
-  jornada: "Aprender, praticar e evoluir",
-  proximoPasso: "Transformar conhecimento em projetos"
+giovanna.config = {
+  formação: "Sistemas de Informação",
+  atuação: "Estágio em Análise de Infraestrutura",
+  ferramentas: ["Power BI", "SAP", "Excel"],
+  universo: ["Infraestrutura", "Dados", "Sistemas"],
+  status: "Aprendizado contínuo 🚀"
 };
 ```
 
 <br />
 
 <div align="center">
-  <sub>✦ Cada aprendizado é o começo de uma nova possibilidade. ✦</sub>
+  <sub>✦ Conectando sistemas. Explorando dados. Construindo meu futuro. ✦</sub>
 </div>
