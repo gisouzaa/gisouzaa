@@ -29,3 +29,8 @@ Entre **infraestrutura, dados e sistemas**, desenvolvo meus conhecimentos em **P
 <div align="center">
 <sub>✦ Conectando sistemas. Explorando dados. Construindo meu futuro. ✦</sub>
 </div>
+
+### ✨ Meu projeto — Lista de tarefas
+Organize seu dia com uma lista simples e prática.
+
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://gisouzaa.github.io/lista-de-tarefas/)
