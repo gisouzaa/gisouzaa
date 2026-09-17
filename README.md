@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Giovanna Souza — Sistemas de Informação" />
+<img src="./header.svg" width="100%" alt="Giovanna Souza — Sistemas de Informação" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 ### 🪐 GIOVANNA · SYSTEM
 
-<img src="./assets/terminal.svg" width="100%" alt="Giovanna System: estudante de Sistemas de Informação. Status: aprendendo e construindo." />
+<img src="./terminal.svg" width="100%" alt="Giovanna System: estudante de Sistemas de Informação. Status: aprendendo e construindo." />
 
 <br />
 
