@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="285" viewBox="0 0 900 285" role="img" aria-labelledby="title desc">
+  <title id="title">Giovanna System v1.0</title>
+  <desc id="desc">Terminal animado com barra de carregamento. Estudante de Sistemas de Informação. Aprendendo e construindo.</desc>
+  <rect x="1" y="1" width="898" height="283" rx="14" fill="#0d1117" stroke="#352448"/>
+  <path d="M1 43H899" stroke="#352448"/>
+  <g fill="#a879df"><circle cx="25" cy="23" r="5"/><circle cx="44" cy="23" r="5" opacity=".65"/><circle cx="63" cy="23" r="5" opacity=".35"/></g>
+  <text x="88" y="28" fill="#b6a3ca" font-family="monospace" font-size="13">giovanna / welcome.sh</text>
+  <g font-family="monospace" font-size="16">
+    <text x="30" y="80" fill="#d7b5ff">$ iniciando giovanna.system</text>
+    <text x="30" y="114" fill="#8b949e">Carregando novas possibilidades...</text>
+    <rect x="30" y="132" width="400" height="7" rx="3.5" fill="#241a32"/>
+    <rect x="30" y="132" width="400" height="7" rx="3.5" fill="#ad75f5">
+      <animate attributeName="width" values="0;400;400" keyTimes="0;.75;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="30" y="178" fill="#c9d1d9">&gt; Giovanna Souza</text>
+    <text x="30" y="209" fill="#c9d1d9">&gt; Estudante de Sistemas de Informação</text>
+    <text x="30" y="253" fill="#c5a0f5">STATUS: aprendendo e construindo</text>
+    <rect x="342" y="240" width="9" height="16" fill="#c5a0f5"><animate attributeName="opacity" values="1;0;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
