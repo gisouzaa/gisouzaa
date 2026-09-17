@@ -8,32 +8,24 @@
 
 </div>
 
-<br />
-
 ### 🪐 GIOVANNA · SYSTEM ONLINE
 
-<img src="./painel.svg" width="100%" alt="Estagiária em Análise de Infraestrutura. Power BI, SAP, Excel e Infraestrutura: minhas ferramentas e áreas de atuação." />
+<img src="./painel.svg" width="100%" alt="Estagiária em Análise de Infraestrutura. Power BI, SAP, Excel e Infraestrutura." />
 
 <br />
 
-### 💜 Sobre mim
+### 💜 Por trás dos sistemas
 
-Olá! Sou **Giovanna Souza**, estudante de **Sistemas de Informação** e **estagiária em Análise de Infraestrutura**.
+Sou **Giovanna Souza**, estudante de **Sistemas de Informação** e **estagiária em Análise de Infraestrutura**. Estou construindo minha trajetória na tecnologia, conectando o que aprendo na graduação à experiência profissional.
 
-Minha jornada conecta **infraestrutura, dados e sistemas**. Aqui compartilho meus estudos e projetos enquanto desenvolvo minha experiência com **Power BI, SAP e Excel**.
+Entre **infraestrutura, dados e sistemas**, desenvolvo meus conhecimentos em **Power BI, SAP e Excel**. Este espaço acompanha minha evolução: estudos, descobertas e projetos que ganham forma ao longo do caminho.
 
-```js
-giovanna.config = {
-  formação: "Sistemas de Informação",
-  atuação: "Estágio em Análise de Infraestrutura",
-  ferramentas: ["Power BI", "SAP", "Excel"],
-  universo: ["Infraestrutura", "Dados", "Sistemas"],
-  status: "Aprendizado contínuo 🚀"
-};
-```
+<br />
+
+<img src="./sobre.svg" width="100%" alt="Minha trajetória: Sistemas de Informação na formação; Análise de Infraestrutura na prática; Power BI, SAP e Excel no repertório. Aprendizado contínuo." />
 
 <br />
 
 <div align="center">
-  <sub>✦ Conectando sistemas. Explorando dados. Construindo meu futuro. ✦</sub>
+<sub>✦ Conectando sistemas. Explorando dados. Construindo meu futuro. ✦</sub>
 </div>

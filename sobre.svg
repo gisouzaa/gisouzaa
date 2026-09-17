@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title">
+<title id="title">Giovanna Souza — minha trajetória</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191024"/><stop offset="1" stop-color="#100d18"/></linearGradient><linearGradient id="line"><stop stop-color="#a56aee"/><stop offset="1" stop-color="#6ee7cf"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="298" rx="18" fill="url(#bg)" stroke="#483058"/>
+<g font-family="Arial, sans-serif">
+<text x="30" y="38" fill="#bc94ed" font-size="12" letter-spacing="3">BEHIND THE PROFILE</text>
+<circle cx="704" cy="33" r="4" fill="#7de1c9"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="718" y="38" fill="#a7c8c1" font-size="12">Aprendizado contínuo</text>
+<text x="30" y="84" fill="#f5ebff" font-size="29" font-weight="700">Conhecimento em movimento.</text>
+<text x="30" y="112" fill="#bbaacb" font-size="16">Da sala de aula à experiência profissional, um passo de cada vez.</text>
+<path d="M44 153H856" stroke="url(#line)" stroke-opacity=".5" fill="none"/>
+<circle r="3" fill="#dfc5ff"><animateMotion path="M44 153H856" dur="7s" repeatCount="indefinite"/></circle>
+<g fill="#ba91ee"><circle cx="44" cy="153" r="5"/><circle cx="324" cy="153" r="5"/><circle cx="604" cy="153" r="5"/></g>
+<g fill="#a28aad" font-size="11" letter-spacing="2"><text x="30" y="187">01 / FORMAÇÃO</text><text x="310" y="187">02 / EXPERIÊNCIA</text><text x="590" y="187">03 / REPERTÓRIO</text></g>
+<g fill="#eee3fa" font-size="20" font-weight="700"><text x="30" y="218">Sistemas de Informação</text><text x="310" y="218">Análise de Infraestrutura</text><text x="590" y="218">Power BI · SAP · Excel</text></g>
+<g fill="#ae9cbd" font-size="14"><text x="30" y="246">Graduação em andamento</text><text x="310" y="246">Atuação como estagiária</text><text x="590" y="246">Conhecimentos em desenvolvimento</text></g>
+</g></svg>
